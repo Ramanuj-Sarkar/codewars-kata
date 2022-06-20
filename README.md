@@ -1,5 +1,5 @@
 # codewars-kata
-I did a few Codewars kata. I don't know which ones to add.
+I did a few Codewars kata. I don't know which ones to add. All of them are here: https://www.codewars.com/users/Ramanuj-Sarkar/stats
 
 I figured this is the most surefire way to show that I actually can code in C++ and Java (especially Java).
 
